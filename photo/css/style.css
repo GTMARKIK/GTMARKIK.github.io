@@ -134,7 +134,7 @@ main a{
 	box-shadow: 0 0 50px 20px rgba(0,0,0,0.4)
 
 }
-main a{
+main .i,main .o{
 opacity: 0.6
 }
 
